@@ -1,7 +1,7 @@
-#3 errores identificables por flake8; errores.py
- 
+# 3 errores identificables por flake8; errores.py
+
 def func(x):
-    print (x)
+    print(x)
     return x + 1
 
 
